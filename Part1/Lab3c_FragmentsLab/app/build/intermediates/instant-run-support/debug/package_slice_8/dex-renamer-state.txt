@@ -1,0 +1,4 @@
+#Sun Nov 26 15:56:29 EST 2017
+base.0=D\:\\workspace_Android\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\46
+path.0=classes.dex
+renamed.0=classes.dex

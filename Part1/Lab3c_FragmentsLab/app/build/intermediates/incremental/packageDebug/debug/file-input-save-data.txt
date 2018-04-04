@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 26 16:27:15 EST 2017
+0.baseType=DIRECTORY
+0.base=D\:\\workspace_Android\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\56
+0.path=classes.dex
+0.set=DEX
+count=1

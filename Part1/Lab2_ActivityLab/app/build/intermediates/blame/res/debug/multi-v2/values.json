@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace_Android\\Lab2_ActivityLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,8,10,4,7,6,5,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,341,466,109,281,223,167,396",
+                        "endColumns": "48,53,48,56,58,56,54,68",
+                        "endOffsets": "103,390,510,161,335,275,217,460"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,158,207,264,323,380,435",
+                        "endColumns": "48,53,48,56,58,56,54,68",
+                        "endOffsets": "99,153,202,259,318,375,430,499"
+                    }
+                },
+                {
+                    "source": "D:\\workspace_Android\\Lab2_ActivityLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "504,795",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "790,950"
+                    }
+                }
+            ]
+        }
+    ]
+}

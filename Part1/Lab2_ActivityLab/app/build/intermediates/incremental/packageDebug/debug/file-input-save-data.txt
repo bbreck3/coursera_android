@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Nov 18 19:56:51 EST 2017
+2.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16\\classes.dex
+5.set=DEX
+3.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_one.xml
+2.set=ANDROID_RESOURCE
+10.set=DEX
+10.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex
+4.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+7.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex
+7.set=DEX
+count=11
+0.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+8.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
+4.set=DEX
+6.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+10.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+1.set=DEX
+7.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+2.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+3.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_two.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+9.base=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=D\:\\workspace_Android\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
+8.set=DEX
+0.set=ANDROID_RESOURCE

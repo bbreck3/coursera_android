@@ -1,0 +1,4 @@
+#Sat Nov 25 12:05:04 EST 2017
+base.0=D\:\\workspace_Android\\Lab3b_DangerousApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\63
+path.0=classes.dex
+renamed.0=classes.dex

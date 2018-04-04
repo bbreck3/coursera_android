@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Rob\\Documents\\coursera_android\\Part2\\Lab6_NotificationsLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rob\\Documents\\coursera_android\\Part2\\Lab6_NotificationsLab\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,208",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "145,202,245"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,169",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "108,164,206"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rob\\Documents\\coursera_android\\Part2\\Lab6_NotificationsLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,9,11,10,7,6,12,5,4",
+                        "startColumns": "4,4,4,4,4,4,4,1,4,4",
+                        "startOffsets": "385,59,433,611,526,324,263,697,194,114",
+                        "endColumns": "46,53,91,87,83,59,59,85,67,78",
+                        "endOffsets": "427,108,520,694,605,379,318,781,257,188"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "211,258,312,404,492,576,636,696,785,853",
+                        "endColumns": "46,53,91,87,83,59,59,88,67,78",
+                        "endOffsets": "253,307,399,487,571,631,691,780,848,927"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Rob\\Documents\\coursera_android\\Part2\\Lab6_NotificationsLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "932,1223",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "1218,1378"
+                    }
+                }
+            ]
+        }
+    ]
+}
