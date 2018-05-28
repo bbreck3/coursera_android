@@ -25,7 +25,7 @@ public class FriendsFragment extends ListFragment {
 		super.onAttach(activity);
 
 		// Make sure that the hosting Activity has implemented
-		// the callback interface. 
+		// the callback interface.
 		try {
 			mCallback = (SelectionListener) activity;
 		} catch (ClassCastException e) {
@@ -37,13 +37,13 @@ public class FriendsFragment extends ListFragment {
 	@Override
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
-		
+
 		// Enable user interaction only if data is available
 		setAllowUserClicks(mCallback.canAllowUserClicks());
-		
+
 	}
 
-	// Enable/disable user interaction 
+	// Enable/disable user interaction
 	void setAllowUserClicks(boolean allowUserInteraction) {
 		getListView().setEnabled(allowUserInteraction);
 		if (allowUserInteraction) {

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 13 19:04:51 EDT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\git\\coursera_android\\Part2\\Lab6_NotificationsLab\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -17,12 +17,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class TestFrontEndActivity extends Activity {
 
 	private final static long DAWN_OF_TIME = 0;
 	static final String NOTIFICATION_POSTED = "notification_posted";
-	
+
 	@SuppressWarnings("unused")
 	private static final String TAG = "TestFrontEndActivity";
 	private static String sFileName;
@@ -59,6 +60,7 @@ public class TestFrontEndActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
+
 				startActivity(new Intent(TestFrontEndActivity.this,
 						MainActivity.class));
 			}
