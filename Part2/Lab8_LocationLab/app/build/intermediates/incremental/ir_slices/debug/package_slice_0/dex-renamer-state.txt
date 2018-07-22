@@ -1,0 +1,4 @@
+#Sat Jul 21 18:22:10 EDT 2018
+base.0=D\:\\workspace_Android\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\95
+path.0=classes.dex
+renamed.0=classes.dex

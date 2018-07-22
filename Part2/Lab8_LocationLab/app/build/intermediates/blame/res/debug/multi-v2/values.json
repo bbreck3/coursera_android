@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\workspace_Android\\Lab8_LocationLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\workspace_Android\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,12,5,13,14,4,10,9,7,6,8,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,592,164,642,734,109,452,368,256,207,319,526",
+                        "endColumns": "48,48,41,90,61,53,72,82,61,47,47,64",
+                        "endOffsets": "103,636,201,728,791,158,520,446,313,250,362,586"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,153,195,286,348,402,475,558,620,668,716",
+                        "endColumns": "48,48,41,90,61,53,72,82,61,47,47,64",
+                        "endOffsets": "99,148,190,281,343,397,470,553,615,663,711,776"
+                    }
+                },
+                {
+                    "source": "D:\\workspace_Android\\Lab8_LocationLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "781,1072",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1067,1227"
+                    }
+                }
+            ]
+        }
+    ]
+}
